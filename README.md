@@ -1,7 +1,20 @@
 # labook📖👩👴🧓👩‍🦰👨‍⚖️👩‍🍳👩‍🎓👨‍🎓👩‍🎤👨‍✈️
- Backend of an imaginary social network
+ Backend of an imaginary social network.
 
 ## The App
+
+endpoints:</br>
+* sign up
+* login
+* create friendship
+* undo friendship
+* create post
+* get all feed of posts
+* get filtered feed
+* like post
+* undo like post
+* comment on post
+* pagination of feed
 
 
 ## Tools and technologies 🛠
@@ -10,6 +23,7 @@ Languages: Typescript</br>
 Database: mySQL
 libs: bcrypt | dotenv | express | jwt | knex | uuid
 Tests: JEST
+Architecture: MVC
 
 
 ## Running the app 🏃‍♂️
